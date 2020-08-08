@@ -34,7 +34,7 @@ We need to make sure the image is appropriately pre-processed. to ensure a certa
 * Poor quality scans may produce poor quality OCR.
 * It does not expose information about what font family text belongs to.
 
-### Imagemagic
+### Imagemagick
 
 ImageMagick is a free and open-sourcesoftware suite for displaying, creating, converting, modifying, and editing raster images.
 <br/>
